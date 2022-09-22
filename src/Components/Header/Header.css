@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color:#3f51b5;
+    font-weight: 400;
+    box-shadow: 0px 1px 4px rgb(0 0 0/25);
+    
+}
+.header>img{
+   
+    margin-left: 30px;
+    color: white;
+}
+.header >span{
+    padding: 10px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
